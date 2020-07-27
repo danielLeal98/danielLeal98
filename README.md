@@ -6,10 +6,6 @@
 
 📍: Rio de Janeiro, RJ - Brazil
 
-<br>
-<br>
-<br>
-
 🔭: I'm currently work as a Application Development Analyst at A5 Solutions.
 
 🎓: Graduated in information systems at Estácio de Sá.
