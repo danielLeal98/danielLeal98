@@ -1,16 +1,21 @@
-### Hi there 👋
+## Daniel Matheus do N Leal
 
-<!--
-**danielLeal98/danielLeal98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱: (21) 97934-4120
 
-Here are some ideas to get you started:
+📧: danielmatheus2015@outlook.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍: Rio de Janeiro, RJ - Brazil
+
+<br>
+<br>
+<br>
+
+🔭: I'm currently work as a Application Development Analyst at A5 Solutions.
+
+🎓: Graduated in information systems at Estácio de Sá.
+
+📚: I'm currently learning React Native, English and I studying Javascript, Node and React JS.
+
+🌎 Languages: Portuguese and English.
+
+🎺 Hobbies: I love TV shows, play the video games, traveling, practice judo, music and barbecue.
