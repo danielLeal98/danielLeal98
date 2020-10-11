@@ -6,7 +6,7 @@
 
 📍: Rio de Janeiro, RJ - Brazil
 
-🔭: I'm currently work as a Application Development Analyst at A5 Solutions.
+🔭: I'm currently work as a Application Development Analyst at Globo.com.
 
 🎓: Graduated in information systems at Estácio de Sá.
 
